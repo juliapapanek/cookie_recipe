@@ -1,0 +1,33 @@
+body {
+  background-color:#ffb6b9;
+  border: 5px dashed #000;
+}
+img {
+  border: 10px solid #c6e2ff;
+  display: block;
+  margin: auto;
+}
+a {
+  color:#c6e2ff;
+  text-decoration: none;
+}
+h1 {
+  font-style: italic;
+  text-align: center;
+}
+p {
+  color:#83859a;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+h2 {
+  font-family: 'arcadia-typeface';
+}
+a:hover{
+  color: #fff;
+}
+.list{
+  border:4px dashed #000;
+}
+#first {
+  border:6px solid red;
+}
